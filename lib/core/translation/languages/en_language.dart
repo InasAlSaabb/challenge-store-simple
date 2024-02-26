@@ -1,0 +1,26 @@
+class ENLanguage {
+  static Map<String, String> get map => {
+        "key_All_Products": "All Products",
+        "key_search": "search...",
+        "key_price": "Price",
+        "key_price1": "Price:",
+        "key_category": "Category",
+        "key_category1": "Category:",
+        "key_ALl": "All",
+        "key_products": "Products",
+        "key_no_product": "no products",
+        "key_no_category": "no category ",
+        "key_total": "Total:",
+        "key_sub_total": "Sub Total:",
+        "key_tax": "Tax:",
+        "key_delivary_fees": "Delivery Fees:",
+        "key_placed_order": "Placed Order",
+        "key_empty": "Empty Cart",
+        "key_continue": "Continue shopping",
+        "key_number_pro": "Items Count:",
+        "key_succed": "Your order placed \n successfully",
+        "key_order": "Order NO:",
+        "key_des": "Description:",
+        "key_add": "Add To Cart",
+      };
+}
